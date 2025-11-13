@@ -1,0 +1,11 @@
+{
+  "name": "React_MS2_Components",
+  "version": "1.0.0",
+  "description": "Common React components for MS2 Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhordan-Ojeda",
+  "license": "ISC"
+}
